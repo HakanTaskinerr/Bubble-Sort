@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545821656 source:c:\users\hakan\desktop\c\bubble\main.c
+	<stdio.h>
+	<stdlib.h>
+
